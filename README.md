@@ -48,7 +48,7 @@ software engineering team and generates an HTML webpage that displays summaries 
 
   - To run test, in the terminal type in 
   
-  -      npm start test 
+  -      npm run test 
   
 ## Additional Info:
 
