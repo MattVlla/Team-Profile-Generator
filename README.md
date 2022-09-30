@@ -20,7 +20,7 @@ software engineering team and generates an HTML webpage that displays summaries 
 
 ## Video Demonstration:
 
-
+https://user-images.githubusercontent.com/105332915/193263058-5086d27f-076a-4018-b8cd-21c7008e65ce.mp4
 
 ## Installation:
 
